@@ -1,0 +1,8 @@
+{
+    "_id":1,
+    "name":"Fresh milk-100g",
+    "category":"Milk",
+    "image":"/images/100fresh.png",
+    "price":185,
+    "brand":"Highland"
+}
